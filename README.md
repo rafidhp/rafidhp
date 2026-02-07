@@ -137,7 +137,7 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   </a>
 
-## <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35" style="vertical-align: middle;"> &nbsp;GitHub Analytics
+## GitHub Analytics &nbsp; <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35" style="vertical-align: middle;">
 
 
 <p align="center">
