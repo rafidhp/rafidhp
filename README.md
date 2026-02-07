@@ -7,7 +7,7 @@
 </p>
 
 - 👋 Hi, I’m Rafi
-- 💼 I'm a Software Engineer
+- 💼 I'm a Software Engineer Student at Education University of Indonesia
 - 💬 Talk to me about freelancing opportunities in software engineering and software analyst
 - 👯 I’m looking to collaborate on fullstack or backend software engineering projects
 
