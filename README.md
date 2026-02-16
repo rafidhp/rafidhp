@@ -139,7 +139,6 @@
 
 ## GitHub Analytics &nbsp; <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35" style="vertical-align: middle;">
 
-
 <p align="center">
   <a href="https://github.com/rafidhp">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafidhp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -147,3 +146,10 @@
   </a>
 </p>
 
+## Game 🎮
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafidhp/rafidhp/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafidhp/rafidhp/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafidhp/rafidhp/output/pacman-contribution-graph.svg">
+</picture>
